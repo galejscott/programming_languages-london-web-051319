@@ -14,6 +14,5 @@ hash = {}
       end
     end
   end
-
    hash  
-end	end
+end
